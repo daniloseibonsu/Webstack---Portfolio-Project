@@ -31,10 +31,8 @@ The ALX  Software Engineering programme is a 12-month(70h/week) immersive progra
 
 AUTHORS
 
-* Mildred Makori **[Github](https://github.com/kwamboka1)** , **[twitter](https://twitter.com/makori_mildred)**, **[Linkedin](https://www.linkedin.com/in/mildred-makori-892652120/)**
-* Emma Udeji **[Github](https://github.com/emmaudeji)** , **[twitter](https://twitter.com/)**, **[Linkedin](https://linkedin.com/in/emmanuel-udeji)**
-* Zelipha Wambui **[Github](https://github.com/Zelipha)**, **[twitter](https://twitter.com/Miss_zeliq)**, **[Linkedin](https://www.linkedin.com/in/zelipha-wambui)**
-* Robert Mudzonga **[Github](https://github.com/RobertMudzonga)**, **[twitter]()**, **[Linkedin](linkedin.com/in/robert-mudzonga-06b1ba21a)**
+* Daniel Osei **[Github](https://github.com/daniloseibonsu)** , **[twitter](https://x.com/DanielOseiBon17)**, **[Linkedin](https://www.linkedin.com/in/daniel-bonsu-8a81791b9/)**
+
 
 
 > Show love by leaving a ⭐️ if you like this project and don't forget to fork, break and modify 
